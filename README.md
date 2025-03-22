@@ -12,6 +12,7 @@ Rascunho do projeto pessoal "Engenharia reversa de arquivos de dados"
 
 ---
 <br>
+
 ## 🛠️ Implementações
 # Arquivo build.sh
  - Contém comandos de compilação com opções para todos erros,todos erros extras e informações de debugging.
