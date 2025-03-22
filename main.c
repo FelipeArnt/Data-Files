@@ -16,8 +16,8 @@ int main(void)
 
 	if(conteudo.count> 0){
 		for(size_t i = 0; i < conteudo.count; i++){
-			uint8_t a = conteudo.items[i];
-			uint8_t b = conteudo.items[i+1];
+			//uint8_t a = conteudo.items[i];
+			//uint8_t b = conteudo.items[i+1];
 		}
 	}
 
