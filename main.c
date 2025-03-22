@@ -9,7 +9,7 @@ static bool map[256][256] = {0};
 
 int main(void)
 {
-	const char *caminho_arquivo = "a.png";
+	const char *caminho_arquivo = "a.jpg";
 	Nob_String_Builder conteudo = {0};
 	if(!nob_read_entire_file(caminho_arquivo, &conteudo )) return 1;
 
