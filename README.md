@@ -31,6 +31,7 @@ Rascunho do projeto "Engenharia reversa de arquivos de dados"
 ## ⚛️ Demonstração:
 
 
-![Terminal](https://exemplo.com/logo.png)
+![Terminal]("https://github.com/FelipeArnt/Data-Files/blob/main/Terminal.png")
+
 
 
