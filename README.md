@@ -33,5 +33,5 @@ Rascunho do projeto "Engenharia reversa de arquivos de dados"
 
 ![Terminal](https://github.com/FelipeArnt/Data-Files/blob/main/Terminal.png)
 
-- Constata-se que o arquivo build está implementado corretamente.
+- Arquivo build está implementado corretamente retornando erros no programa.
 - Resultado dos bytes contabilizados.
