@@ -30,6 +30,7 @@ Rascunho do projeto pessoal "Engenharia reversa de arquivos de dados"
  - Define: NOB_IMPLEMENTATION
  - Include: "nob.h", <stdint.h>, <stdio.h>
 
+<br>
 
 ## ⚛️ Demonstração:
 
