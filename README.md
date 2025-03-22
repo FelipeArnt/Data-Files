@@ -32,7 +32,7 @@ Rascunho do projeto pessoal "Engenharia reversa de arquivos de dados"
 ---
 <br>
 
-## ⚛️ Demonstração:
+## ⚛️ Demonstração
 
 
 ![Terminal](https://github.com/FelipeArnt/Data-Files/blob/main/Terminal.png)
