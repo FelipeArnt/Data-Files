@@ -24,3 +24,13 @@ Rascunho do projeto "Engenharia reversa de arquivos de dados"
  - Contém comandos de compilação com opções para todos erros,todos erros extras e informações de debugging.
  - Comandos utilizados:  "set -xe" e "cc -Wall -Wextra -ggdb -o main main.c";
 
+
+
+
+
+## ⚛️ Demonstração:
+
+
+![Terminal](https://exemplo.com/logo.png)
+
+
