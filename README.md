@@ -1,4 +1,4 @@
-# Data Files 
+# 🤖:Data Files 
 Rascunho do projeto "Engenharia reversa de arquivos de dados"
 
 
@@ -31,7 +31,7 @@ Rascunho do projeto "Engenharia reversa de arquivos de dados"
 ## ⚛️ Demonstração:
 
 
-![Terminal]("https://github.com/FelipeArnt/Data-Files/blob/main/Terminal.png")
+![Terminal](https://github.com/FelipeArnt/Data-Files/blob/main/Terminal.png)
 
-
-
+- Constata-se que o arquivo build está implementado corretamente.
+- Resultado dos bytes contabilizados.
