@@ -1,5 +1,5 @@
 # Data Files 
-Rascunho do projeto pessoal "Engenharia reversa de arquivos de dados"
+Rascunho do projeto "Engenharia reversa de arquivos de dados"
 
 
 ---
@@ -12,9 +12,15 @@ Rascunho do projeto pessoal "Engenharia reversa de arquivos de dados"
 
 ---
 
-## 📋 Como Usar
+## 🧰 Implementado até aqui: 
 
-1. Clone o repositório:
+# Engenharia Reversa em arquivos de dados
+ - Criação arquivo "build.sh"
+ - Importação do arquivo "nob.h"
+ - Criação arquivo "main.c"
 
-   ```bash
-   git clone https://github.com/FelipeArnt/Data-Files.git
+
+# Arquivo build.sh
+ - Contém comandos de compilação com opções para todos erros,todos erros extras e informações de debugging.
+ - Comandos utilizados:  "set -xe" e "cc -Wall -Wextra -ggdb -o main main.c";
+
