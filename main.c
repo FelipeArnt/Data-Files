@@ -5,7 +5,7 @@
 #include "nob.h"
 
 
-static bool map[256][256] = {0};
+//static bool map[256][256] = {0};
 
 int main(void)
 {
