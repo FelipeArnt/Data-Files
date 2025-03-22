@@ -29,7 +29,7 @@ Rascunho do projeto pessoal "Engenharia reversa de arquivos de dados"
  - Função principal que calcula a quantidade de bytes na imagem.
  - Define: NOB_IMPLEMENTATION
  - Include: "nob.h", <stdint.h>, <stdio.h>
-
+---
 <br>
 
 ## ⚛️ Demonstração:
