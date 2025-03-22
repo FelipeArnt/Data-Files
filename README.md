@@ -1,5 +1,5 @@
 # 🤖 Data Files 
-- Engenharia reversa de dados de arquivos .
+- Engenharia reversa de dados em arquivos .
 
 
 ---
@@ -8,7 +8,7 @@
 ## **Fase inicial de desenvolvimento**
 
 - Atualmente, ele conta com uma funcionalidade básica: contar quantos bytes um arquivo `.png` possui.
-- O objetivo principal é evoluir para realizar **engenharia reversa de dados de arquivos**, permitindo a análise e manipulação de diversos formatos de arquivos.
+- O objetivo principal é evoluir para realizar **engenharia reversa de dados em arquivos**, permitindo a análise e manipulação de diversos formatos de arquivos.
 
 ## 🛠️ Implementações
 # Arquivo build.sh
