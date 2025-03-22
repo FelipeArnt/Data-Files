@@ -14,7 +14,7 @@ Rascunho do projeto pessoal "Engenharia reversa de arquivos de dados"
 # Arquivo build.sh
  - Contém comandos de compilação com opções para todos erros,todos erros extras e informações de debugging.
  - Comandos utilizados:  "set -xe" e "cc -Wall -Wextra -ggdb -o main main.c";
-# Arquivo main.
+# Arquivo main.c
  - Função principal que calcula a quantidade de bytes na imagem.
  - Define: NOB_IMPLEMENTATION
  - Include: "nob.h", <stdint.h>, <stdio.h>
