@@ -8,7 +8,7 @@
  - O objetivo principal é evoluir para realizar **engenharia reversa de dados em arquivos**, permitindo a análise e manipulação de diversos formatos de arquivos.
 
 ## 🛠️ Implementações
-# Arquivo build.sh
+# Arquivo nob.c
  - Contém comandos de compilação com opções para todos erros,todos erros extras e informações de debugging.
  - Comandos utilizados:  "set -xe" e "cc -Wall -Wextra -ggdb -o main main.c"
 # Arquivo main.c
