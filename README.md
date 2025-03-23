@@ -9,7 +9,8 @@
 
 ## 🛠️ Implementações
 # Arquivo nob.c
- - Contém comandos de compilação com opções para todos erros,todos erros extras e informações de debugging.
+ - Função REBUILD_URSELF
+ - Contém comandos de compilação com opções para todos e erros extras e informações de debugging.
  - Comandos utilizados:  "set -xe" e "cc -Wall -Wextra -ggdb -o main main.c"
 # Arquivo main.c
  - Função principal que calcula a quantidade de bytes na imagem.
