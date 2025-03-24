@@ -7,7 +7,7 @@
  - Atualmente, ele conta com uma funcionalidade básica: contar quantos bytes um arquivo `.png` possui.
  - O objetivo principal é evoluir para realizar **engenharia reversa de dados em arquivos**, permitindo a análise e manipulação de diversos formatos de arquivos.
 
-## 🛠️ Implementações
+## ⚙️ Implementações
 # Arquivo nob.c
  - Função **REBUILD_URSELF**
  - Contém comandos de compilação com opções para todos e erros extras e informações de debugging.
