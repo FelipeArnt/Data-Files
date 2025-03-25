@@ -14,8 +14,8 @@
  - Comandos utilizados:  **"set -xe"** e **"cc -Wall -Wextra -ggdb -o main main.c"**
 # Arquivo main.c
  - Função principal que calcula a quantidade de bytes na imagem.
- - Define: NOB_IMPLEMENTATION.
- - Include: "nob.h", <stdint.h>, <stdio.h>
+ - NOB_IMPLEMENTATION.
+ - nob.h, <stdint.h>, <stdio.h>
 ---
 <br>
 
