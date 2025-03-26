@@ -20,7 +20,6 @@
 <br>
 
 ## ⚛️ Demonstração
-
 ![Terminal](https://github.com/FelipeArnt/Data-Files/blob/main/Terminal.png)
 
 - Arquivo build está implementado corretamente retornando erros no programa.
