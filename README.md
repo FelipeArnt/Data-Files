@@ -8,11 +8,11 @@
  - O objetivo principal é evoluir para realizar **engenharia reversa de dados em arquivos**, permitindo a análise e manipulação de diversos formatos de arquivos.
 
 ## ⚙️ Implementações
-# Arquivo nob.c
+### Arquivo nob.c
  - Função **REBUILD_URSELF**
  - Contém comandos de compilação com opções para todos e erros extras e informações de debugging.
  - Comandos utilizados:  **"set -xe"** e **"cc -Wall -Wextra -ggdb -o main main.c"**
-# Arquivo main.c
+### Arquivo main.c
  - Função principal que calcula a quantidade de bytes na imagem.
  - **NOB_IMPLEMENTATION.**
  - **nob.h, <stdint.h>, <stdio.h>**
